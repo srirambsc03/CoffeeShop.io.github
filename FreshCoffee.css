@@ -252,6 +252,16 @@ section{
     flex-wrap: wrap;
 }
 .about .row .image{
+    flex:1 1 45rem;
+    padding: 2.5rem 0;
+}
+.about .row .image img{
+    margin-left: 5rem;
+    height:30rem;
+    width: 30rem;
+
+}
+/* .about .row .image{
     margin-left: 3rem;
     flex:1 1 45rem;
     padding: 2.5rem 0;
@@ -260,7 +270,7 @@ section{
     height:40rem;
     width: 50rem;
     flex:1 1 45rem;
-}
+} */
 
 /* .about .row .image{
     flex:1 1 45rem;
